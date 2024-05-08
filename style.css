@@ -12,7 +12,7 @@ body{
     background-color: var(--cor-de-fundo);
     color: var(--branco);
 }
-.content-titulo{
+.conteudo-titulo{
 text-align: center;
 }
 *{
